@@ -3,7 +3,7 @@ import Layout from '../component/Layout';
 import UserInfo from '../component/UserInfo'
 import PostContent from '../component/PostConent'
 
-const Post = () => {
+const Post = (props) => {
   return (
     <div>
       <Layout>
